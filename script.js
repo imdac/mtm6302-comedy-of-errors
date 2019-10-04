@@ -32,7 +32,7 @@ for (const quote of quotes) {
 /**
  * Iterate over the plays object (created above)
  *    Iterate over the quotes for each play
- *    Output a list starting with 1 
+ *    Output as a list starting with 1 
  */
 for (const play in plays) {
   console.log('')
